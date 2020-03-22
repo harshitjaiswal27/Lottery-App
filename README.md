@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 
 ### To test the contract functionalities locally using ganache local ethereum network:
 
-### `npm start`
+### `npm run test`
 
 ### Note :
 The contract is deployed on Rinkeby test network at address '0x53c6CfAcfB30272ADBD7DC3292D0F53aB03f70AC' with the help of infura node api. 
