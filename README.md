@@ -26,3 +26,5 @@ The contract is deployed on Rinkeby test network at address '0xE211fe3d4350c0207
 
 If you want to deploy the contract on your own. Checkout `deploy.js` file in the `lottery` directory, do the neccessary changes as suggested over there. Thereafter run the `deploy.js` file and replace the values of `ABI` and `account-address` in `lottery.js` file in `src` directory with values of the same printed on console.
 
+### Final Output :
+![Screenshot](/public/Capture.PNG)
